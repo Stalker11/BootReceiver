@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Boot_event_receiver</string>
+    <string name="no_boot_detected">No boots detected</string>
+    <string name="the_boot_detected">"The boot was detected"</string>
+    <string name="the_boot_detected_was">The boot was detected with the timestamp =</string>
+    <string name="last_boots_time">Last boots time delta</string>
+</resources>
